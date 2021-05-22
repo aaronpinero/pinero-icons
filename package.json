@@ -1,0 +1,15 @@
+{
+  "name": "pinero-icons",
+  "version": "1.0.0",
+  "description": "An icon font based on custom icons I have created.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "icons",
+    "webfont"
+  ],
+  "author": "Aaron Pinero",
+  "license": "ISC"
+}

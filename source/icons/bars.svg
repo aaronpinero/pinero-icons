@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>bars</title>
+    <defs></defs>
+    <g id="bars" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Combined-Shape" fill="#000000" points="0 7 64 7 64 16 0 16"></polygon>
+        <polygon id="Combined-Shape" fill="#000000" points="0 48 64 48 64 57 0 57"></polygon>
+        <polygon id="Combined-Shape" fill="#000000" points="0 27.5 64 27.5 64 36.5 0 36.5"></polygon>
+    </g>
+</svg>

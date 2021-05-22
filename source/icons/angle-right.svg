@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
     <title>angle-right</title>
-    <defs></defs>
+    <desc>Created with Sketch.</desc>
     <g id="angle-right" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Combined-Shape" fill="#000000" points="54 32 22 64 15 57 40 32 15 7 22 0"></polygon>
+        <polygon id="Combined-Shape" fill="#000000" points="54 32 22 64 15 57 40 32 15 7 22 -7.10542736e-15"></polygon>
     </g>
 </svg>

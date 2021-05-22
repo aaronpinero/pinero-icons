@@ -1,0 +1,1 @@
+webfont './source/icons/*.svg' --dest ./dist/pineroicons --template css --font-name pineroicons --css-template-class-name pineroicons --css-template-font-path dist/pineroicons/

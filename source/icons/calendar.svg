@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>calendar</title>
+    <desc>Created with Sketch.</desc>
+    <g id="calendar" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M57,8 C59.7614237,8 62,10.2385763 62,13 L62,59 C62,61.7614237 59.7614237,64 57,64 L7,64 C4.23857625,64 2,61.7614237 2,59 L2,13 C2,10.2385763 4.23857625,8 7,8 L57,8 Z M56,14 L8,14 L8,58 L56,58 L56,14 Z" id="Rectangle" fill="#000000" fill-rule="nonzero"></path>
+        <rect id="Rectangle" fill="#000000" x="13" y="0" width="8" height="8"></rect>
+        <rect id="Rectangle-Copy" fill="#000000" x="43" y="0" width="8" height="8"></rect>
+        <rect id="Rectangle" fill="#000000" x="12.5" y="31" width="6" height="6"></rect>
+        <rect id="Rectangle" fill="#000000" x="23.5" y="31" width="6" height="6"></rect>
+        <rect id="Rectangle" fill="#000000" x="34.5" y="31" width="6" height="6"></rect>
+        <rect id="Rectangle" fill="#000000" x="45.5" y="31" width="6" height="6"></rect>
+        <rect id="Rectangle" fill="#000000" x="12.5" y="42" width="6" height="6"></rect>
+        <rect id="Rectangle" fill="#000000" x="23.5" y="42" width="6" height="6"></rect>
+        <rect id="Rectangle" fill="#000000" x="34.5" y="42" width="6" height="6"></rect>
+        <rect id="Rectangle" fill="#000000" x="45.5" y="42" width="6" height="6"></rect>
+        <rect id="Rectangle" fill="#000000" x="8" y="20" width="48" height="6"></rect>
+    </g>
+</svg>

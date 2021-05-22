@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>book</title>
+    <desc>Created with Sketch.</desc>
+    <g id="book" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M58,0 L58,64 L15,64 C10.0294373,64 6,59.9705627 6,55 L6,9 C6,4.02943725 10.0294373,0 15,0 L58,0 Z M52,52 L15,52 C13.4023191,52 12.0963391,53.24892 12.0050927,54.8237272 L12,55 C12,56.5976809 13.24892,57.9036609 14.8237272,57.9949073 L15,58 L52,58 L52,52 Z M52,6 L15,6 L14.8237272,6.00509269 C13.3679054,6.08944495 12.1905861,7.21190551 12.0209908,8.64325277 L12.0050927,8.82372721 L12,9 L11.9987133,46.512572 C12.8200762,46.2221207 13.6961803,46.0475212 14.6073896,46.0084097 L15,46 L51.9995682,46 L52,6 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
+        <rect id="Rectangle" fill="#000000" x="18" y="14" width="28" height="6"></rect>
+    </g>
+</svg>

@@ -4,12 +4,20 @@
   "description": "An icon font based on custom icons I have created.",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build-font": "./bin/build-font"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aaronpinero/pinero-icons.git"
   },
   "keywords": [
     "icons",
     "webfont"
   ],
   "author": "Aaron Pinero",
-  "license": "ISC"
+  "license": "GNU",
+  "devDependencies": {
+    "webfont": "^11.1.1"
+  }
 }

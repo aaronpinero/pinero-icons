@@ -18,6 +18,7 @@
   "author": "Aaron Pinero",
   "license": "GNU",
   "devDependencies": {
+    "templatesjs": "^2.0.0",
     "webfont": "^11.1.1"
   }
 }

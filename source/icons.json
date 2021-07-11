@@ -1,0 +1,124 @@
+{
+  "data": [
+    {
+      "name": "Angle Down",
+      "class": "pineroicons-angle-down"
+    },
+    {
+      "name": "Angle Left",
+      "class": "pineroicons-angle-left"
+    },
+    {
+      "name": "Angle Right",
+      "class": "pineroicons-angle-right"
+    },
+    {
+      "name": "Angle Up",
+      "class": "pineroicons-angle-up"
+    },
+    {
+      "name": "Angle Up/Down",
+      "class": "pineroicons-angle-up-down"
+    },
+    {
+      "name": "Arrow Down",
+      "class": "pineroicons-arrow-down"
+    },
+    {
+      "name": "Arrow Left",
+      "class": "pineroicons-arrow-left"
+    },
+    {
+      "name": "Arrow Right",
+      "class": "pineroicons-arrow-right"
+    },
+    {
+      "name": "Arrow Up",
+      "class": "pineroicons-arrow-up"
+    },
+    {
+      "name": "Bars",
+      "class": "pineroicons-bars"
+    },
+    {
+      "name": "Book",
+      "class": "pineroicons-book"
+    },
+    {
+      "name": "Calendar",
+      "class": "pineroicons-calendar"
+    },
+    {
+      "name": "Chair",
+      "class": "pineroicons-chair"
+    },
+    {
+      "name": "Check",
+      "class": "pineroicons-check"
+    },
+    {
+      "name": "Clock",
+      "class": "pineroicons-clock"
+    },
+    {
+      "name": "Dash",
+      "class": "pineroicons-dash"
+    },
+    {
+      "name": "Database",
+      "class": "pineroicons-database"
+    },
+    {
+      "name": "External Link",
+      "class": "pineroicons-external"
+    },
+    {
+      "name": "File (text)",
+      "class": "pineroicons-file-text"
+    },
+    {
+      "name": "Hand",
+      "class": "pineroicons-hand"
+    },
+    {
+      "name": "Map Pin",
+      "class": "pineroicons-map-pin"
+    },
+    {
+      "name": "Muted",
+      "class": "pineroicons-muted"
+    },
+    {
+      "name": "Pause",
+      "class": "pineroicons-pause"
+    },
+    {
+      "name": "Play",
+      "class": "pineroicons-play"
+    },
+    {
+      "name": "Quote Mark Left",
+      "class": "pineroicons-quote-left"
+    },
+    {
+      "name": "Quote Mark Right",
+      "class": "pineroicons-quote-right"
+    },
+    {
+      "name": "Search",
+      "class": "pineroicons-search"
+    },
+    {
+      "name": "Sound",
+      "class": "pineroicons-sound"
+    },
+    {
+      "name": "Tools",
+      "class": "pineroicons-tools"
+    },
+    {
+      "name": "X",
+      "class": "pineroicons-x"
+    }
+  ]
+}

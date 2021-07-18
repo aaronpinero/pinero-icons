@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
-    <title>dash</title>
+    <title>diamond</title>
     <desc>Created with Sketch.</desc>
-    <g id="dash" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Combined-Shape" fill="#000000" points="0 27.5 64 27.5 64 36.5 2.23820962e-13 36.5"></polygon>
+    <g id="diamond" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M64,32 L32,64 L1.41291423e-11,32 L32,1.30171429e-11 L64,32 Z M32,14.001 L14,32 L32,50 L50,32 L32,14.001 Z" id="Shape" fill="#000000"></path>
     </g>
 </svg>

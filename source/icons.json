@@ -1,124 +1,190 @@
 {
-  "data": [
+  "regular": [
     {
       "name": "Angle Down",
-      "class": "pineroicons-angle-down"
+      "class": "picons-angle-down"
     },
     {
       "name": "Angle Left",
-      "class": "pineroicons-angle-left"
+      "class": "picons-angle-left"
     },
     {
       "name": "Angle Right",
-      "class": "pineroicons-angle-right"
+      "class": "picons-angle-right"
     },
     {
       "name": "Angle Up",
-      "class": "pineroicons-angle-up"
+      "class": "picons-angle-up"
     },
     {
       "name": "Angle Up/Down",
-      "class": "pineroicons-angle-up-down"
+      "class": "picons-angle-up-down"
     },
     {
       "name": "Arrow Down",
-      "class": "pineroicons-arrow-down"
+      "class": "picons-arrow-down"
     },
     {
       "name": "Arrow Left",
-      "class": "pineroicons-arrow-left"
+      "class": "picons-arrow-left"
     },
     {
       "name": "Arrow Right",
-      "class": "pineroicons-arrow-right"
+      "class": "picons-arrow-right"
     },
     {
       "name": "Arrow Up",
-      "class": "pineroicons-arrow-up"
+      "class": "picons-arrow-up"
     },
     {
       "name": "Bars",
-      "class": "pineroicons-bars"
+      "class": "picons-bars"
     },
     {
       "name": "Book",
-      "class": "pineroicons-book"
+      "class": "picons-book"
     },
     {
       "name": "Calendar",
-      "class": "pineroicons-calendar"
+      "class": "picons-calendar"
     },
     {
       "name": "Chair",
-      "class": "pineroicons-chair"
+      "class": "picons-chair"
     },
     {
       "name": "Check",
-      "class": "pineroicons-check"
+      "class": "picons-check"
     },
     {
       "name": "Clock",
-      "class": "pineroicons-clock"
+      "class": "picons-clock"
     },
     {
       "name": "Dash",
-      "class": "pineroicons-dash"
+      "class": "picons-dash"
     },
     {
       "name": "Database",
-      "class": "pineroicons-database"
+      "class": "picons-database"
+    },
+    {
+      "name": "Diamond",
+      "class": "picons-diamond"
     },
     {
       "name": "External Link",
-      "class": "pineroicons-external"
+      "class": "picons-external"
     },
     {
       "name": "File (text)",
-      "class": "pineroicons-file-text"
+      "class": "picons-file-text"
+    },
+    {
+      "name": "Filter",
+      "class": "picons-filter"
+    },
+    {
+      "name": "Gear",
+      "class": "picons-gear"
     },
     {
       "name": "Hand",
-      "class": "pineroicons-hand"
+      "class": "picons-hand"
     },
     {
       "name": "Map Pin",
-      "class": "pineroicons-map-pin"
+      "class": "picons-map-pin"
     },
     {
       "name": "Muted",
-      "class": "pineroicons-muted"
+      "class": "picons-muted"
     },
     {
       "name": "Pause",
-      "class": "pineroicons-pause"
+      "class": "picons-pause"
     },
     {
       "name": "Play",
-      "class": "pineroicons-play"
-    },
-    {
-      "name": "Quote Mark Left",
-      "class": "pineroicons-quote-left"
-    },
-    {
-      "name": "Quote Mark Right",
-      "class": "pineroicons-quote-right"
+      "class": "picons-play"
     },
     {
       "name": "Search",
-      "class": "pineroicons-search"
+      "class": "picons-search"
     },
     {
       "name": "Sound",
-      "class": "pineroicons-sound"
+      "class": "picons-sound"
     },
     {
       "name": "Tools",
-      "class": "pineroicons-tools"
+      "class": "picons-tools"
     },
     {
       "name": "X",
-      "class": "pineroicons-x"
+      "class": "picons-x"
+    }
+  ],
+  "thin": [
+    {
+      "name": "Angle Down",
+      "class": "picons-angle-down-thin"
+    },
+    {
+      "name": "Angle Left",
+      "class": "picons-angle-left-thin"
+    },
+    {
+      "name": "Angle Right",
+      "class": "picons-angle-right-thin"
+    },
+    {
+      "name": "Angle Up",
+      "class": "picons-angle-up-thin"
+    },
+    {
+      "name": "Angle Up/Down",
+      "class": "picons-angle-up-down-thin"
+    },
+    {
+      "name": "Arrow Down",
+      "class": "picons-arrow-down-thin"
+    },
+    {
+      "name": "Arrow Left",
+      "class": "picons-arrow-left-thin"
+    },
+    {
+      "name": "Arrow Right",
+      "class": "picons-arrow-right-thin"
+    },
+    {
+      "name": "Arrow Up",
+      "class": "picons-arrow-up-thin"
+    },
+    {
+      "name": "Bars",
+      "class": "picons-bars-thin"
+    },
+    {
+      "name": "Check",
+      "class": "picons-check-thin"
+    },
+    {
+      "name": "Dash",
+      "class": "picons-dash-thin"
+    },
+    {
+      "name": "Diamond",
+      "class": "picons-diamond-thin"
+    },
+    {
+      "name": "Search",
+      "class": "picons-search-thin"
+    },
+    {
+      "name": "X",
+      "class": "picons-x-thin"
     }
   ]
 }

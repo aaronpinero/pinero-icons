@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 63.1 (92452) - https://sketch.com -->
+    <title>bars-thin</title>
+    <desc>Created with Sketch.</desc>
+    <g id="bars-thin" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <polygon id="Combined-Shape" fill="#000000" points="0 7 64 7 64 13 2.23820962e-13 13"></polygon>
+        <polygon id="Combined-Shape" fill="#000000" points="0 51 64 51 64 57 2.23820962e-13 57"></polygon>
+        <polygon id="Combined-Shape" fill="#000000" points="0 29 64 29 64 35 2.23820962e-13 35"></polygon>
+    </g>
+</svg>

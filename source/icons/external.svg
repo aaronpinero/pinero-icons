@@ -6,6 +6,6 @@
     <g id="external" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <rect id="Rectangle" fill="#000000" transform="translate(37.656854, 26.343146) rotate(45.000000) translate(-37.656854, -26.343146) " x="34.6568542" y="-3.65685425" width="6" height="60"></rect>
         <path d="M36.201,8 L30.2,14 L6,14 L6,58 L50,58 L50,33.798 L56,27.798 L56,60.5 C56,62.4329966 53.9942357,64 51.52,64 L4.48,64 C2.00576432,64 0,62.4329966 0,60.5 L0,11.5 C0,9.56700338 2.00576432,8 4.48,8 L36.201,8 Z" id="Combined-Shape" fill="#000000" fill-rule="nonzero"></path>
-        <polygon id="Path-5" fill="#000000" points="64 -1.42108547e-14 42 -1.42108547e-14 42 6 58 6 58 22 64 22"></polygon>
+        <polygon id="Path-5" fill="#000000" points="64 -1.42108547e-14 44 -1.42108547e-14 38 6 58 6 58 26 64 20"></polygon>
     </g>
 </svg>

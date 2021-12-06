@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path d="M27,4 C39.69,4 50,14.31 50,27 C50,32.63 48,37.79 44.61,41.79 L60,57.17 L57.17,60 L41.79,44.61 C37.79,48 32.63,50 27,50 C14.31,50 4,39.69 4,27 C4,14.31 14.31,4 27,4 Z M27,8 C16.52,8 8,16.52 8,27 C8,37.48 16.52,46 27,46 C37.48,46 46,37.48 46,27 C46,16.52 37.48,8 27,8 Z" fill="#000000" fill-rule="nonzero"></path>
+</svg>

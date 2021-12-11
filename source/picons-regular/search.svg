@@ -1,4 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <path d="M27,4 C39.69,4 50,14.31 50,27 C50,32.27 48.23,37.12 45.24,41 L60,55.74 L55.74,60 L41,45.24 C37.12,48.23 32.27,50 27,50 C14.31,50 4,39.69 4,27 C4,14.31 14.31,4 27,4 Z M27,10 C17.62,10 10,17.62 10,27 C10,36.38 17.62,44 27,44 C36.38,44 44,36.38 44,27 C44,17.62 36.38,10 27,10 Z" fill="#000000" fill-rule="nonzero"></path>
+<svg width="64px" height="65px" viewBox="0 0 64 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>search</title>
+    <g id="search" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(0.000000, 1.000000)">
+        <path d="M26,2 C39.245913,2 50,12.754087 50,26 C50,31.5424878 48.1171347,36.6486976 44.9566997,40.7133337 L61.997417,57.7547763 L57.7547763,61.997417 L40.7133337,44.9566997 C36.6486976,48.1171347 31.5424878,50 26,50 C12.754087,50 2,39.245913 2,26 C2,12.754087 12.754087,2 26,2 Z M26,8 C16.0677955,8 8,16.0677955 8,26 C8,35.9322045 16.0677955,44 26,44 C35.9322045,44 44,35.9322045 44,26 C44,16.0677955 35.9322045,8 26,8 Z" id="Shape" fill="#000000" fill-rule="nonzero"></path>
+    </g>
 </svg>

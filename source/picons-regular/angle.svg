@@ -1,7 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-    <title>angle</title>
-    <g id="angle" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <polygon id="Path" fill="#000000" points="24.2426 12 44.2341 31.9832 44.23 31.987 44.2341 32 24.2426 52 20 47.7321 35.744 32 20 16.2426"></polygon>
-    </g>
+    <polygon fill="#000000" points="24.2426 12 44.2341 31.9832 44.23 31.987 44.2341 32 24.2426 52 20 47.7321 35.744 32 20 16.2426"></polygon>
 </svg>

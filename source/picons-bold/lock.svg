@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <path d="M32,2 C42.29,2 51,10.61 51,21 L51,30 L56,30 L56,64 L8,64 L8,30 L43,30 L43,21 C43,15.1 37.96,10 32,10 C26.03,10 21.16,14.78 21,20.7 L21,21 L13,21 C13,10.51 21.51,2 32,2 Z M48,38 L16,38 L16,56 L48,56 L48,38 Z" fill="#000000" fill-rule="nonzero"></path>
+</svg>

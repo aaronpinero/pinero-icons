@@ -5,7 +5,9 @@
   "main": "index.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-font": "./bin/build-font"
+    "build-regular-font": "svgtofont --sources ./source/picons-regular --output ./dist/picons-regular --fontName picons-regular",
+    "build-light-font": "svgtofont --sources ./source/picons-light --output ./dist/picons-light --fontName picons-light",
+    "build-bold-font": "svgtofont --sources ./source/picons-bold --output ./dist/picons-bold --fontName picons-bold"
   },
   "repository": {
     "type": "git",
@@ -18,7 +20,7 @@
   "author": "Aaron Pinero",
   "license": "GNU",
   "devDependencies": {
-    "templatesjs": "^2.0.0",
-    "webfont": "^11.1.1"
+    "svgtofont": "^3.13.1",
+    "templatesjs": "^2.0.0"
   }
 }

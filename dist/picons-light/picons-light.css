@@ -1,0 +1,49 @@
+@font-face {
+  font-family: "picons-light";
+  src: url('picons-light.eot?t=1639951141423'); /* IE9*/
+  src: url('picons-light.eot?t=1639951141423#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("picons-light.woff2?t=1639951141423") format("woff2"),
+  url("picons-light.woff?t=1639951141423") format("woff"),
+  url('picons-light.ttf?t=1639951141423') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('picons-light.svg?t=1639951141423#picons-light') format('svg'); /* iOS 4.1- */
+}
+
+[class^="picons-light-"], [class*=" picons-light-"] {
+  font-family: 'picons-light' !important;
+  font-size:16px;
+  font-style:normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+
+.picons-light-angle:before { content: "\ea01"; }
+.picons-light-arrow:before { content: "\ea02"; }
+.picons-light-bars:before { content: "\ea03"; }
+.picons-light-book:before { content: "\ea04"; }
+.picons-light-calendar:before { content: "\ea05"; }
+.picons-light-chair:before { content: "\ea06"; }
+.picons-light-check:before { content: "\ea07"; }
+.picons-light-chevron:before { content: "\ea08"; }
+.picons-light-circle:before { content: "\ea09"; }
+.picons-light-clock:before { content: "\ea0a"; }
+.picons-light-cog:before { content: "\ea0b"; }
+.picons-light-database:before { content: "\ea0c"; }
+.picons-light-diamond:before { content: "\ea0d"; }
+.picons-light-external:before { content: "\ea0e"; }
+.picons-light-file_text:before { content: "\ea0f"; }
+.picons-light-funnel:before { content: "\ea10"; }
+.picons-light-hand:before { content: "\ea11"; }
+.picons-light-home:before { content: "\ea12"; }
+.picons-light-lock:before { content: "\ea13"; }
+.picons-light-map_pin:before { content: "\ea14"; }
+.picons-light-mute:before { content: "\ea15"; }
+.picons-light-pause:before { content: "\ea16"; }
+.picons-light-play:before { content: "\ea17"; }
+.picons-light-search:before { content: "\ea18"; }
+.picons-light-sort:before { content: "\ea19"; }
+.picons-light-sound:before { content: "\ea1a"; }
+.picons-light-star:before { content: "\ea1b"; }
+.picons-light-times:before { content: "\ea1c"; }
+.picons-light-tool:before { content: "\ea1d"; }
+.picons-light-x:before { content: "\ea1e"; }

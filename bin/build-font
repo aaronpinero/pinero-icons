@@ -1,1 +1,0 @@
-webfont './source/icons/*.svg' --dest ./dist/picons --template css --font-name picons --css-template-class-name picons --css-template-font-path dist/picons/

@@ -2,367 +2,367 @@
   "regular": [
     {
       "name": "Angle",
-      "class": "picons-regular picons-angle"
+      "class": "picons-regular-angle"
     },
     {
       "name": "Arrow",
-      "class": "picons-regular picons-arrow"
+      "class": "picons-regular-arrow"
     },
     {
       "name": "Bars",
-      "class": "picons-regular picons-bars"
+      "class": "picons-regular-bars"
     },
     {
       "name": "Book",
-      "class": "picons-regular picons-book"
+      "class": "picons-regular-book"
     },
     {
       "name": "Calendar",
-      "class": "picons-regular picons-calendar"
+      "class": "picons-regular-calendar"
     },
     {
       "name": "Chair",
-      "class": "picons-regular picons-chair"
+      "class": "picons-regular-chair"
     },
     {
       "name": "Check",
-      "class": "picons-regular picons-check"
+      "class": "picons-regular-check"
     },
     {
       "name": "Chevron",
-      "class": "picons-regular picons-chevron"
+      "class": "picons-regular-chevron"
     },
     {
       "name": "Circle",
-      "class": "picons-regular picons-circle"
+      "class": "picons-regular-circle"
     },
     {
       "name": "Clock",
-      "class": "picons-regular picons-clock"
+      "class": "picons-regular-clock"
     },
     {
       "name": "Cog",
-      "class": "picons-regular picons-cog"
+      "class": "picons-regular-cog"
     },
     {
       "name": "Database",
-      "class": "picons-regular picons-database"
+      "class": "picons-regular-database"
     },
     {
       "name": "Diamond",
-      "class": "picons-regular picons-diamond"
+      "class": "picons-regular-diamond"
     },
     {
       "name": "External Link",
-      "class": "picons-regular picons-external"
+      "class": "picons-regular-external"
     },
     {
       "name": "File (text)",
-      "class": "picons-regular picons-file-text"
+      "class": "picons-regular-file_text"
     },
     {
       "name": "Funnel",
-      "class": "picons-regular picons-funnel"
+      "class": "picons-regular-funnel"
     },
     {
       "name": "Hand",
-      "class": "picons-regular picons-hand"
+      "class": "picons-regular-hand"
     },
     {
       "name": "Home",
-      "class": "picons-regular picons-home"
+      "class": "picons-regular-home"
     },
     {
       "name": "Lock",
-      "class": "picons-regular picons-lock"
+      "class": "picons-regular-lock"
     },
     {
       "name": "Map Pin",
-      "class": "picons-regular picons-map-pin"
+      "class": "picons-regular-map_pin"
     },
     {
       "name": "Mute",
-      "class": "picons-regular picons-mute"
+      "class": "picons-regular-mute"
     },
     {
       "name": "Pause",
-      "class": "picons-regular picons-pause"
+      "class": "picons-regular-pause"
     },
     {
       "name": "Play",
-      "class": "picons-regular picons-play"
+      "class": "picons-regular-play"
     },
     {
       "name": "Search",
-      "class": "picons-regular picons-search"
+      "class": "picons-regular-search"
     },
     {
       "name": "Sort",
-      "class": "picons-regular picons-sort"
+      "class": "picons-regular-sort"
     },
     {
       "name": "Sound",
-      "class": "picons-regular picons-sound"
+      "class": "picons-regular-sound"
     },
     {
       "name": "Star",
-      "class": "picons-regular picons-star"
+      "class": "picons-regular-star"
     },
     {
       "name": "Times",
-      "class": "picons-regular picons-times"
+      "class": "picons-regular-times"
     },
     {
-      "name": "Tools",
-      "class": "picons-regular picons-tools"
+      "name": "Tool",
+      "class": "picons-regular-tool"
     },
     {
       "name": "X",
-      "class": "picons-regular picons-x"
+      "class": "picons-regular-x"
     }
   ],
   "light": [
     {
       "name": "Angle",
-      "class": "picons-light picons-angle"
+      "class": "picons-light-angle"
     },
     {
       "name": "Arrow",
-      "class": "picons-light picons-arrow"
+      "class": "picons-light-arrow"
     },
     {
       "name": "Bars",
-      "class": "picons-light picons-bars"
+      "class": "picons-light-bars"
     },
     {
       "name": "Book",
-      "class": "picons-light picons-book"
+      "class": "picons-light-book"
     },
     {
       "name": "Calendar",
-      "class": "picons-light picons-calendar"
+      "class": "picons-light-calendar"
     },
     {
       "name": "Chair",
-      "class": "picons-light picons-chair"
+      "class": "picons-light-chair"
     },
     {
       "name": "Check",
-      "class": "picons-light picons-check"
+      "class": "picons-light-check"
     },
     {
       "name": "Chevron",
-      "class": "picons-light picons-chevron"
+      "class": "picons-light-chevron"
     },
     {
       "name": "Circle",
-      "class": "picons-light picons-circle"
+      "class": "picons-light-circle"
     },
     {
       "name": "Clock",
-      "class": "picons-light picons-clock"
+      "class": "picons-light-clock"
     },
     {
       "name": "Cog",
-      "class": "picons-light picons-cog"
+      "class": "picons-light-cog"
     },
     {
       "name": "Database",
-      "class": "picons-light picons-database"
+      "class": "picons-light-database"
     },
     {
       "name": "Diamond",
-      "class": "picons-light picons-diamond"
+      "class": "picons-light-diamond"
     },
     {
       "name": "External Link",
-      "class": "picons-light picons-external"
+      "class": "picons-light-external"
     },
     {
       "name": "File (text)",
-      "class": "picons-light picons-file-text"
+      "class": "picons-light-file_text"
     },
     {
       "name": "Funnel",
-      "class": "picons-light picons-funnel"
+      "class": "picons-light-funnel"
     },
     {
       "name": "Hand",
-      "class": "picons-light picons-hand"
+      "class": "picons-light-hand"
     },
     {
       "name": "Home",
-      "class": "picons-light picons-home"
+      "class": "picons-light-home"
     },
     {
       "name": "Lock",
-      "class": "picons-light picons-lock"
+      "class": "picons-light-lock"
     },
     {
       "name": "Map Pin",
-      "class": "picons-light picons-map-pin"
+      "class": "picons-light-map_pin"
     },
     {
       "name": "Mute",
-      "class": "picons-light picons-mute"
+      "class": "picons-light-mute"
     },
     {
       "name": "Pause",
-      "class": "picons-light picons-pause"
+      "class": "picons-light-pause"
     },
     {
       "name": "Play",
-      "class": "picons-light picons-play"
+      "class": "picons-light-play"
     },
     {
       "name": "Search",
-      "class": "picons-light picons-search"
+      "class": "picons-light-search"
     },
     {
       "name": "Sort",
-      "class": "picons-light picons-sort"
+      "class": "picons-light-sort"
     },
     {
       "name": "Sound",
-      "class": "picons-light picons-sound"
+      "class": "picons-light-sound"
     },
     {
       "name": "Star",
-      "class": "picons-light picons-star"
+      "class": "picons-light-star"
     },
     {
       "name": "Times",
-      "class": "picons-light picons-times"
+      "class": "picons-light-times"
     },
     {
-      "name": "Tools",
-      "class": "picons-light picons-tools"
+      "name": "Tool",
+      "class": "picons-light-tool"
     },
     {
       "name": "X",
-      "class": "picons-light picons-x"
+      "class": "picons-light-x"
     }
   ],
   "bold": [
     {
       "name": "Angle",
-      "class": "picons-bold picons-angle"
+      "class": "picons-bold-angle"
     },
     {
       "name": "Arrow",
-      "class": "picons-bold picons-arrow"
+      "class": "picons-bold-arrow"
     },
     {
       "name": "Bars",
-      "class": "picons-bold picons-bars"
+      "class": "picons-bold-bars"
     },
     {
       "name": "Book",
-      "class": "picons-bold picons-book"
+      "class": "picons-bold-book"
     },
     {
       "name": "Calendar",
-      "class": "picons-bold picons-calendar"
+      "class": "picons-bold-calendar"
     },
     {
       "name": "Chair",
-      "class": "picons-bold picons-chair"
+      "class": "picons-bold-chair"
     },
     {
       "name": "Check",
-      "class": "picons-bold picons-check"
+      "class": "picons-bold-check"
     },
     {
       "name": "Chevron",
-      "class": "picons-bold picons-chevron"
+      "class": "picons-bold-chevron"
     },
     {
       "name": "Circle",
-      "class": "picons-bold picons-circle"
+      "class": "picons-bold-circle"
     },
     {
       "name": "Clock",
-      "class": "picons-bold picons-clock"
+      "class": "picons-bold-clock"
     },
     {
       "name": "Cog",
-      "class": "picons-bold picons-cog"
+      "class": "picons-bold-cog"
     },
     {
       "name": "Database",
-      "class": "picons-bold picons-database"
+      "class": "picons-bold-database"
     },
     {
       "name": "Diamond",
-      "class": "picons-bold picons-diamond"
+      "class": "picons-bold-diamond"
     },
     {
       "name": "External Link",
-      "class": "picons-bold picons-external"
+      "class": "picons-bold-external"
     },
     {
       "name": "File (text)",
-      "class": "picons-bold picons-file-text"
+      "class": "picons-bold-file_text"
     },
     {
       "name": "Funnel",
-      "class": "picons-bold picons-funnel"
+      "class": "picons-bold-funnel"
     },
     {
       "name": "Hand",
-      "class": "picons-bold picons-hand"
+      "class": "picons-bold-hand"
     },
     {
       "name": "Home",
-      "class": "picons-bold picons-home"
+      "class": "picons-bold-home"
     },
     {
       "name": "Lock",
-      "class": "picons-bold picons-lock"
+      "class": "picons-bold-lock"
     },
     {
       "name": "Map Pin",
-      "class": "picons-bold picons-map-pin"
+      "class": "picons-bold-map_pin"
     },
     {
       "name": "Mute",
-      "class": "picons-bold picons-mute"
+      "class": "picons-bold-mute"
     },
     {
       "name": "Pause",
-      "class": "picons-bold picons-pause"
+      "class": "picons-bold-pause"
     },
     {
       "name": "Play",
-      "class": "picons-bold picons-play"
+      "class": "picons-bold-play"
     },
     {
       "name": "Search",
-      "class": "picons-bold picons-search"
+      "class": "picons-bold-search"
     },
     {
       "name": "Sort",
-      "class": "picons-bold picons-sort"
+      "class": "picons-bold-sort"
     },
     {
       "name": "Sound",
-      "class": "picons-bold picons-sound"
+      "class": "picons-bold-sound"
     },
     {
       "name": "Star",
-      "class": "picons-bold picons-star"
+      "class": "picons-bold-star"
     },
     {
       "name": "Times",
-      "class": "picons-bold picons-times"
+      "class": "picons-bold-times"
     },
     {
-      "name": "Tools",
-      "class": "picons-bold picons-tools"
+      "name": "Tool",
+      "class": "picons-bold-tool"
     },
     {
       "name": "X",
-      "class": "picons-bold picons-x"
+      "class": "picons-bold-x"
     }
   ]
 }

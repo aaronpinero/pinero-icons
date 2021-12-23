@@ -411,8 +411,8 @@
       "class": "fas fa-database"
     },
     {
-      "name": "Diamond",
-      "class": "far fa-square"
+      "name": "Diamond (n/a)",
+      "class": "fas fa-slash text-light"
     },
     {
       "name": "External Link",
@@ -444,47 +444,47 @@
     },
     {
       "name": "Minus",
-      "class": "picons-bold-minus"
+      "class": "fas fa-minus"
     },
     {
       "name": "Mute",
-      "class": "picons-bold-mute"
+      "class": "fas fa-volume-mute"
     },
     {
       "name": "Pause",
-      "class": "picons-bold-pause"
+      "class": "fas fa-pause"
     },
     {
       "name": "Play",
-      "class": "picons-bold-play"
+      "class": "fas fa-play"
     },
     {
       "name": "Plus",
-      "class": "picons-bold-plus"
+      "class": "fas fa-plus"
     },
     {
       "name": "Search",
-      "class": "picons-bold-search"
+      "class": "fas fa-search"
     },
     {
       "name": "Sort",
-      "class": "picons-bold-sort"
+      "class": "fas fa-sort"
     },
     {
       "name": "Sound",
-      "class": "picons-bold-sound"
+      "class": "fas fa-volume-up"
     },
     {
       "name": "Star",
-      "class": "picons-bold-star"
+      "class": "far fa-star"
     },
     {
       "name": "Times",
-      "class": "picons-bold-times"
+      "class": "fas fa-times"
     },
     {
       "name": "Tool",
-      "class": "picons-bold-tool"
+      "class": "fas fa-wrench"
     }
   ]
 }

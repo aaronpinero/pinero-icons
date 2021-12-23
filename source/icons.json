@@ -29,10 +29,6 @@
       "class": "picons-regular-check"
     },
     {
-      "name": "Chevron",
-      "class": "picons-regular-chevron"
-    },
-    {
       "name": "Circle",
       "class": "picons-regular-circle"
     },
@@ -81,6 +77,10 @@
       "class": "picons-regular-map_pin"
     },
     {
+      "name": "Minus",
+      "class": "picons-regular-minus"
+    },
+    {
       "name": "Mute",
       "class": "picons-regular-mute"
     },
@@ -91,6 +91,10 @@
     {
       "name": "Play",
       "class": "picons-regular-play"
+    },
+    {
+      "name": "Plus",
+      "class": "picons-regular-plus"
     },
     {
       "name": "Search",
@@ -116,10 +120,6 @@
       "name": "Tool",
       "class": "picons-regular-tool"
     },
-    {
-      "name": "X",
-      "class": "picons-regular-x"
-    }
   ],
   "light": [
     {
@@ -149,10 +149,6 @@
     {
       "name": "Check",
       "class": "picons-light-check"
-    },
-    {
-      "name": "Chevron",
-      "class": "picons-light-chevron"
     },
     {
       "name": "Circle",
@@ -203,6 +199,10 @@
       "class": "picons-light-map_pin"
     },
     {
+      "name": "Minus",
+      "class": "picons-light-minus"
+    },
+    {
       "name": "Mute",
       "class": "picons-light-mute"
     },
@@ -213,6 +213,10 @@
     {
       "name": "Play",
       "class": "picons-light-play"
+    },
+    {
+      "name": "Plus",
+      "class": "picons-light-plus"
     },
     {
       "name": "Search",
@@ -238,10 +242,6 @@
       "name": "Tool",
       "class": "picons-light-tool"
     },
-    {
-      "name": "X",
-      "class": "picons-light-x"
-    }
   ],
   "bold": [
     {
@@ -271,10 +271,6 @@
     {
       "name": "Check",
       "class": "picons-bold-check"
-    },
-    {
-      "name": "Chevron",
-      "class": "picons-bold-chevron"
     },
     {
       "name": "Circle",
@@ -325,6 +321,10 @@
       "class": "picons-bold-map_pin"
     },
     {
+      "name": "Minus",
+      "class": "picons-bold-minus"
+    },
+    {
       "name": "Mute",
       "class": "picons-bold-mute"
     },
@@ -335,6 +335,10 @@
     {
       "name": "Play",
       "class": "picons-bold-play"
+    },
+    {
+      "name": "Plus",
+      "class": "picons-bold-plus"
     },
     {
       "name": "Search",
@@ -360,9 +364,5 @@
       "name": "Tool",
       "class": "picons-bold-tool"
     },
-    {
-      "name": "X",
-      "class": "picons-bold-x"
-    }
   ]
 }

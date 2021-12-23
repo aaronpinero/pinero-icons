@@ -119,7 +119,7 @@
     {
       "name": "Tool",
       "class": "picons-regular-tool"
-    },
+    }
   ],
   "light": [
     {
@@ -241,7 +241,7 @@
     {
       "name": "Tool",
       "class": "picons-light-tool"
-    },
+    }
   ],
   "bold": [
     {
@@ -363,6 +363,128 @@
     {
       "name": "Tool",
       "class": "picons-bold-tool"
+    }
+  ],
+  "fa": [
+    {
+      "name": "Angle",
+      "class": "fas fa-angle-right"
     },
+    {
+      "name": "Arrow",
+      "class": "fas fa-arrow-right"
+    },
+    {
+      "name": "Bars",
+      "class": "fas fa-bars"
+    },
+    {
+      "name": "Book",
+      "class": "fas fa-book"
+    },
+    {
+      "name": "Calendar",
+      "class": "far fa-calendar"
+    },
+    {
+      "name": "Chair",
+      "class": "fas fa-chair"
+    },
+    {
+      "name": "Check",
+      "class": "fas fa-check"
+    },
+    {
+      "name": "Circle",
+      "class": "far fa-circle"
+    },
+    {
+      "name": "Clock",
+      "class": "far fa-clock"
+    },
+    {
+      "name": "Cog",
+      "class": "fas fa-cog"
+    },
+    {
+      "name": "Database",
+      "class": "fas fa-database"
+    },
+    {
+      "name": "Diamond",
+      "class": "far fa-square"
+    },
+    {
+      "name": "External Link",
+      "class": "fas fa-external-link-alt"
+    },
+    {
+      "name": "File (text)",
+      "class": "far fa-file-alt"
+    },
+    {
+      "name": "Funnel",
+      "class": "fas fa-filter"
+    },
+    {
+      "name": "Hand",
+      "class": "far fa-hand-point-right"
+    },
+    {
+      "name": "Home",
+      "class": "fas fa-home"
+    },
+    {
+      "name": "Lock",
+      "class": "fas fa-unlock"
+    },
+    {
+      "name": "Map Pin",
+      "class": "fas fa-map-marker-alt"
+    },
+    {
+      "name": "Minus",
+      "class": "picons-bold-minus"
+    },
+    {
+      "name": "Mute",
+      "class": "picons-bold-mute"
+    },
+    {
+      "name": "Pause",
+      "class": "picons-bold-pause"
+    },
+    {
+      "name": "Play",
+      "class": "picons-bold-play"
+    },
+    {
+      "name": "Plus",
+      "class": "picons-bold-plus"
+    },
+    {
+      "name": "Search",
+      "class": "picons-bold-search"
+    },
+    {
+      "name": "Sort",
+      "class": "picons-bold-sort"
+    },
+    {
+      "name": "Sound",
+      "class": "picons-bold-sound"
+    },
+    {
+      "name": "Star",
+      "class": "picons-bold-star"
+    },
+    {
+      "name": "Times",
+      "class": "picons-bold-times"
+    },
+    {
+      "name": "Tool",
+      "class": "picons-bold-tool"
+    }
   ]
 }

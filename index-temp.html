@@ -10,6 +10,10 @@
     <link rel="stylesheet" href="dist/picons-regular/picons-regular.css">
     <link rel="stylesheet" href="dist/picons-light/picons-light.css">
     <link rel="stylesheet" href="dist/picons-bold/picons-bold.css">
+    
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/solid.css" integrity="sha384-Tv5i09RULyHKMwX0E8wJUqSOaXlyu3SQxORObAI08iUwIalMmN5L6AvlPX2LMoSE" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/regular.css" integrity="sha384-e7wK18mMVsIpE/BDLrCQ99c7gROAxr9czDzslePcAHgCLGCRidxq1mrNCLVF2oaj" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/fontawesome.css" integrity="sha384-jLKHWM3JRmfMU0A5x5AkjWkw/EYfGUAGagvnfryNV3F9VqM98XiIH7VBGVoxVSc7" crossorigin="anonymous">
   </head>
   <body>
     <div class="container p-5">
@@ -21,7 +25,7 @@
             
           <p class="my-4">There are 30 icons in this collection. The icons are packaged as web fonts. There is a light, regular, and bold version. Each icon font is generated using the svgtofont npm package.</p>
           
-          <p class="my-4">The example icons below are shown at 175% normal size.</p>
+          <p class="my-4">The example icons below are shown at 175% normal size. I have also included the equivalent free FontAwesome icons for comparison.</p>
         </div>
       </div>
             
@@ -34,6 +38,9 @@
         </li>
         <li class="nav-item" role="presentation">
           <button class="nav-link" id="bold-tab" data-bs-toggle="tab" data-bs-target="#bold" type="button" role="tab" aria-controls="bold" aria-selected="false">Bold</button>
+        </li>
+        <li class="nav-item" role="presentation">
+          <button class="nav-link" id="fa-tab" data-bs-toggle="tab" data-bs-target="#fa" type="button" role="tab" aria-controls="fa" aria-selected="false">FontAwesome Free</button>
         </li>
       </ul>
       <div class="tab-content" id="myTabContent">
@@ -53,9 +60,16 @@
         </div>
         <div class="tab-pane fade" id="bold" role="tabpanel" aria-labelledby="bold-tab">
           <div class="row">
-          
-          
+
+
       <%icons_bold[]%>
+          </div>
+        </div>
+        <div class="tab-pane fade" id="fa" role="tabpanel" aria-labelledby="fa-tab">
+          <div class="row">
+
+
+      <%icons_fa[]%>
           </div>
         </div>
       </div>

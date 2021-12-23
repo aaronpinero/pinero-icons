@@ -1,10 +1,10 @@
 @font-face {font-family: "picons-regular";
-  src: url('picons-regular.eot?t=1639950823508'); /* IE9*/
-  src: url('picons-regular.eot?t=1639950823508#iefix') format('embedded-opentype'), /* IE6-IE8 */
-  url("picons-regular.woff2?t=1639950823508") format("woff2"),
-  url("picons-regular.woff?t=1639950823508") format("woff"),
-  url('picons-regular.ttf?t=1639950823508') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
-  url('picons-regular.svg?t=1639950823508#picons-regular') format('svg'); /* iOS 4.1- */
+  src: url('picons-regular.eot?t=1640239781702'); /* IE9*/
+  src: url('picons-regular.eot?t=1640239781702#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url("picons-regular.woff2?t=1640239781702") format("woff2"),
+  url("picons-regular.woff?t=1640239781702") format("woff"),
+  url('picons-regular.ttf?t=1640239781702') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+*/
+  url('picons-regular.svg?t=1640239781702#picons-regular') format('svg'); /* iOS 4.1- */
 }
 
 [class^="picons-regular-"], [class*=" picons-regular-"] {
@@ -35,16 +35,18 @@
 .picons-regular-home:before { content: "\ea12"; }
 .picons-regular-lock:before { content: "\ea13"; }
 .picons-regular-map_pin:before { content: "\ea14"; }
-.picons-regular-mute:before { content: "\ea15"; }
-.picons-regular-pause:before { content: "\ea16"; }
-.picons-regular-play:before { content: "\ea17"; }
-.picons-regular-search:before { content: "\ea18"; }
-.picons-regular-sort:before { content: "\ea19"; }
-.picons-regular-sound:before { content: "\ea1a"; }
-.picons-regular-star:before { content: "\ea1b"; }
-.picons-regular-times:before { content: "\ea1c"; }
-.picons-regular-tool:before { content: "\ea1d"; }
-.picons-regular-x:before { content: "\ea1e"; }
+.picons-regular-minus:before { content: "\ea15"; }
+.picons-regular-mute:before { content: "\ea16"; }
+.picons-regular-pause:before { content: "\ea17"; }
+.picons-regular-play:before { content: "\ea18"; }
+.picons-regular-plus:before { content: "\ea19"; }
+.picons-regular-search:before { content: "\ea1a"; }
+.picons-regular-sort:before { content: "\ea1b"; }
+.picons-regular-sound:before { content: "\ea1c"; }
+.picons-regular-star:before { content: "\ea1d"; }
+.picons-regular-times:before { content: "\ea1e"; }
+.picons-regular-tool:before { content: "\ea1f"; }
+.picons-regular-x:before { content: "\ea20"; }
 
 $picons-regular-angle: "\ea01";
 $picons-regular-arrow: "\ea02";
@@ -66,14 +68,16 @@ $picons-regular-hand: "\ea11";
 $picons-regular-home: "\ea12";
 $picons-regular-lock: "\ea13";
 $picons-regular-map_pin: "\ea14";
-$picons-regular-mute: "\ea15";
-$picons-regular-pause: "\ea16";
-$picons-regular-play: "\ea17";
-$picons-regular-search: "\ea18";
-$picons-regular-sort: "\ea19";
-$picons-regular-sound: "\ea1a";
-$picons-regular-star: "\ea1b";
-$picons-regular-times: "\ea1c";
-$picons-regular-tool: "\ea1d";
-$picons-regular-x: "\ea1e";
+$picons-regular-minus: "\ea15";
+$picons-regular-mute: "\ea16";
+$picons-regular-pause: "\ea17";
+$picons-regular-play: "\ea18";
+$picons-regular-plus: "\ea19";
+$picons-regular-search: "\ea1a";
+$picons-regular-sort: "\ea1b";
+$picons-regular-sound: "\ea1c";
+$picons-regular-star: "\ea1d";
+$picons-regular-times: "\ea1e";
+$picons-regular-tool: "\ea1f";
+$picons-regular-x: "\ea20";
 

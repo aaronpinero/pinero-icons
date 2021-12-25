@@ -14,9 +14,12 @@
   font-style:normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  vertical-align: bottom;
 }
-
+[class^="picons-bold-"]::before,
+[class*=" picons-bold-"]::before {
+  display: inline-block;
+  vertical-align: middle;
+}
 
 .picons-bold-angle:before { content: "\ea01"; }
 .picons-bold-arrow:before { content: "\ea02"; }

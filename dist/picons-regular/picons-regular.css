@@ -8,13 +8,17 @@
   url('picons-regular.svg?t=1640239781702#picons-regular') format('svg'); /* iOS 4.1- */
 }
 
-[class^="picons-regular-"]::before,
-[class*=" picons-regular-"]::before {
+[class^="picons-regular-"],
+[class*=" picons-regular-"] {
   font-family: 'picons-regular' !important;
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  vertical-align: bottom;
+}
+[class^="picons-regular-"]::before,
+[class*=" picons-regular-"]::before {
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .picons-regular-angle:before { content: "\ea01"; }

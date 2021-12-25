@@ -14,7 +14,11 @@
   font-style: normal;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  vertical-align: bottom
+}
+[class^="picons-light-"]::before,
+[class*=" picons-light-"]::before {
+  display: inline-block;
+  vertical-align: middle;
 }
 
 .picons-light-angle:before { content: "\ea01"; }

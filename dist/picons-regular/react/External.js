@@ -2,5 +2,5 @@
 import React from 'react';
 
 export const External = props => (
-  <svg viewBox="0 0 20 20" {...props}><path d="M32,16 L32,22 L14,22 L14,58 L50,58 L50,40 L56,40 L56,64 L8,64 L8,16 L32,16 Z M64,8 L64,32 L58,32 L58,20 L58.59,17.65 L29.12,47.12 L24.88,42.88 L54.34,13.42 L52,14 L40,14 L40,8 L64,8 Z" fillRule="evenodd" /></svg>
+  <svg viewBox="0 0 20 20" {...props}><path d="M32,8 L32,14 L14,14 L14,50 L50,50 L50,32 L56,32 L56,56 L8,56 L8,8 L32,8 Z M64,0 L64,24 L58,24 L58,12 L58.593,9.649 L29.1213203,39.1213203 L24.8786797,34.8786797 L54.335,5.421 L52,6 L40,6 L40,0 L64,0 Z" fillRule="evenodd" /></svg>
 );
